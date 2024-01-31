@@ -1,0 +1,24 @@
+{
+    "Title": "F.D.A. Authorizes First In-Home Test for Coronavirus",
+    "Author": [
+        "Katie Thomas",
+        "Natasha Singer"
+    ],
+    "Published Date": "2020-04-21",
+    "Summary": "The test, sold by LabCorp, would first be made available to health care and other front-line workers, the company said.",
+    "Content": [
+        "The Food and Drug Administration on Tuesday said it had granted emergency clearance to the first in-home test for the coronavirus, a nasal swab kit that will be sold by LabCorp.",
+        "The agency said that LabCorp had submitted data showing the home test is as safe and accurate as a sample collection at a doctor\u2019s office, hospital or other testing site.",
+        "\u201cWith this action, there is now a convenient and reliable option for patient sample collection from the comfort and safety of their home,\u201d Dr. Stephen M. Hahn, the F.D.A. commissioner, said in a statement.",
+        "Patients will swab their own nose using a testing kit sent by the company, and will mail it in an insulated package back to the company. The Pixel by LabCorp COVID-19 test will be available to consumers in most states, with a doctor\u2019s order, the agency said.",
+        "LabCorp said that it would first make the tests available to health care workers and emergency workers who may have been exposed to the virus or have symptoms, and that it would be making the self-collection kits available to consumers \u201cin the coming weeks.\u201d The company also noted that because the tests are done by consumers in their own home, it would cut down on the demand for masks and other protective equipment that is usually needed to collect testing specimens.",
+        "The company said the test will cost $119. Consumers will have to pay out of pocket for the test, a company spokesman said, and ask their insurer for reimbursement. The Trump administration has repeatedly said that diagnostic tests for the coronavirus will be covered so that consumers don\u2019t have to foot the bill.",
+        "At a moment when governors across the country say their states are facing a shortage of tests, and companies like CVS and Walmart are setting up drive-through testing centers in parking lots, the arrival of kits that let people collect their own nasal specimens at home has the potential to open up testing to a wider audience.",
+        "Medical experts said the home-swabbing tests could increase convenience for consumers \u2014 and reduce the need for people to go to medical offices where they might inadvertently expose health providers and other patients to the infection.",
+        "\u201cThis is not a game-changer, but it\u2019s potentially another piece of the large and rather messy puzzle we\u2019re assembling to test enough people to stop Covid-19,\u201d Dr. Sheldon Campbell, associate director of the Yale School of Medicine\u2019s Clinical Microbiology Laboratory, said of the at-home nasal self-swabbing kits. \u201cA home-collection testing procedure will support telemedicine and help patients with transportation difficulties and in hard-to-reach places to access testing.\u201d",
+        "Experts also cautioned, however, that the nasal swabs can be less accurate for testing than the gold standard specimen collection for the coronavirus that health providers perform \u2014 which involves inserting a long-nasal swab up through the nose into the back of the throat. One small peer-reviewed study from France, for instance, reported last week that coronavirus tests using nasal swabs had a higher false negative rate than the longer swabs.",
+        "Home-sampling may also increase the time it takes people to obtain test results.",
+        "As the virus spread in the United States, several companies rushed unauthorized home kits to the market, even though the F.D.A. had said it had not evaluated whether they worked properly.",
+        "Many of those companies then suspended their marketing of the kits. But one company, Vault, which normally sells testosterone to men, began advertising a Covid-19 kit using saliva on April 14. The F.D.A. has not auhorized that company to sell a testing kit, and a notice on Vault\u2019s website said the tests are currently unavailable until at least Wednesday."
+    ]
+}
